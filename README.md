@@ -10,7 +10,7 @@
     *   [HE]()
 
 
-## Data Sets: 
+## Data Sets:
     *   [BC](https://github.com/compagnb/IS_Emotion_ML/tree/master/barbComp)
     *   [SK](https://github.com/compagnb/IS_Emotion_ML/tree/master/sallyKung)
     *   [SY](https://github.com/compagnb/IS_Emotion_ML/tree/master/sarahYee)
