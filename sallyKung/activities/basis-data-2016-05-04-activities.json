@@ -2,268 +2,154 @@
   "content": {
     "activities": [
       {
-        "actual_seconds": 197.0,
-        "calories": 9.0,
+        "actual_seconds": 302.0,
+        "calories": 37.599998474121094,
         "end_time": {
-          "iso": "2016-05-04T14:22:12Z",
+          "iso": "2016-05-04T12:27:12Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462371732
+          "timestamp": 1462364832
         },
         "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T141458/events"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-04T122155/events"
         },
         "heart_rate": {
-          "avg": 112.1319808959961,
+          "avg": 118.5264892578125,
           "max": null,
           "min": null
         },
-        "id": "walk__2016-05-04T141458",
-        "minutes": 7.233333333333333,
+        "id": "walk__2016-05-04T122155",
+        "minutes": 5.283333333333333,
         "sealed": true,
         "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T141458/stages"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-04T122155/stages"
         },
         "start_time": {
-          "iso": "2016-05-04T14:14:58Z",
+          "iso": "2016-05-04T12:21:55Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462371298
+          "timestamp": 1462364515
         },
         "state": "complete",
-        "steps": 371.0,
+        "steps": 596.0,
         "type": "walk",
         "version": 1
       },
       {
-        "actual_seconds": 255.0,
-        "calories": 15.699999809265137,
+        "actual_seconds": 348.0,
+        "calories": 45.900001525878906,
         "end_time": {
-          "iso": "2016-05-04T15:19:24Z",
+          "iso": "2016-05-04T19:52:52Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462375164
+          "timestamp": 1462391572
         },
         "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/run__2016-05-04T151404/events"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-04T194359/events"
         },
         "heart_rate": {
-          "avg": 120.13127136230469,
+          "avg": 120.10344696044922,
           "max": null,
           "min": null
         },
-        "id": "run__2016-05-04T151404",
-        "minutes": 5.333333333333333,
+        "id": "walk__2016-05-04T194359",
+        "minutes": 8.883333333333333,
         "sealed": true,
         "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/run__2016-05-04T151404/stages"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-04T194359/stages"
         },
         "start_time": {
-          "iso": "2016-05-04T15:14:04Z",
+          "iso": "2016-05-04T19:43:59Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462374844
+          "timestamp": 1462391039
         },
         "state": "complete",
-        "steps": 587.0,
-        "type": "run",
-        "version": 1
-      },
-      {
-        "actual_seconds": 380.0,
-        "calories": 17.399999618530273,
-        "end_time": {
-          "iso": "2016-05-04T19:29:20Z",
-          "time_zone": {
-            "name": "America/New_York",
-            "offset": -240
-          },
-          "timestamp": 1462390160
-        },
-        "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T191907/events"
-        },
-        "heart_rate": {
-          "avg": 109.35789489746094,
-          "max": null,
-          "min": null
-        },
-        "id": "walk__2016-05-04T191907",
-        "minutes": 10.216666666666667,
-        "sealed": true,
-        "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T191907/stages"
-        },
-        "start_time": {
-          "iso": "2016-05-04T19:19:07Z",
-          "time_zone": {
-            "name": "America/New_York",
-            "offset": -240
-          },
-          "timestamp": 1462389547
-        },
-        "state": "complete",
-        "steps": 904.0,
+        "steps": 660.0,
         "type": "walk",
         "version": 1
       },
       {
-        "actual_seconds": 235.0,
-        "calories": 7.099999904632568,
+        "actual_seconds": 199.0,
+        "calories": 19.5,
         "end_time": {
-          "iso": "2016-05-04T19:57:53Z",
+          "iso": "2016-05-04T21:11:31Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462391873
+          "timestamp": 1462396291
         },
         "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T195224/events"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-04T210538/events"
         },
         "heart_rate": {
-          "avg": 96.45454406738281,
+          "avg": 113.42472839355469,
           "max": null,
           "min": null
         },
-        "id": "walk__2016-05-04T195224",
-        "minutes": 5.483333333333333,
+        "id": "walk__2016-05-04T210538",
+        "minutes": 5.883333333333334,
         "sealed": true,
         "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T195224/stages"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-04T210538/stages"
         },
         "start_time": {
-          "iso": "2016-05-04T19:52:24Z",
+          "iso": "2016-05-04T21:05:38Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462391544
+          "timestamp": 1462395938
         },
         "state": "complete",
-        "steps": 533.0,
+        "steps": 373.0,
         "type": "walk",
         "version": 1
       },
       {
-        "actual_seconds": 188.0,
-        "calories": 6.400000095367432,
+        "actual_seconds": 383.0,
+        "calories": 45.79999923706055,
         "end_time": {
-          "iso": "2016-05-04T20:34:34Z",
+          "iso": "2016-05-05T00:55:12Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462394074
+          "timestamp": 1462409712
         },
         "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T202649/events"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-05T004841/events"
         },
         "heart_rate": {
-          "avg": 106.69680786132812,
+          "avg": 120.39164733886719,
           "max": null,
           "min": null
         },
-        "id": "walk__2016-05-04T202649",
-        "minutes": 7.75,
-        "sealed": true,
-        "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T202649/stages"
-        },
-        "start_time": {
-          "iso": "2016-05-04T20:26:49Z",
-          "time_zone": {
-            "name": "America/New_York",
-            "offset": -240
-          },
-          "timestamp": 1462393609
-        },
-        "state": "complete",
-        "steps": 345.0,
-        "type": "walk",
-        "version": 1
-      },
-      {
-        "actual_seconds": 184.0,
-        "calories": 16.200000762939453,
-        "end_time": {
-          "iso": "2016-05-04T20:44:05Z",
-          "time_zone": {
-            "name": "America/New_York",
-            "offset": -240
-          },
-          "timestamp": 1462394645
-        },
-        "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T203837/events"
-        },
-        "heart_rate": {
-          "avg": 133.66847229003906,
-          "max": null,
-          "min": null
-        },
-        "id": "walk__2016-05-04T203837",
-        "minutes": 5.466666666666667,
-        "sealed": true,
-        "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-04T203837/stages"
-        },
-        "start_time": {
-          "iso": "2016-05-04T20:38:37Z",
-          "time_zone": {
-            "name": "America/New_York",
-            "offset": -240
-          },
-          "timestamp": 1462394317
-        },
-        "state": "complete",
-        "steps": 340.0,
-        "type": "walk",
-        "version": 1
-      },
-      {
-        "actual_seconds": 311.0,
-        "calories": 14.0,
-        "end_time": {
-          "iso": "2016-05-05T00:55:25Z",
-          "time_zone": {
-            "name": "America/New_York",
-            "offset": -240
-          },
-          "timestamp": 1462409725
-        },
-        "events": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-05T004854/events"
-        },
-        "heart_rate": {
-          "avg": 103.72990417480469,
-          "max": null,
-          "min": null
-        },
-        "id": "walk__2016-05-05T004854",
+        "id": "walk__2016-05-05T004841",
         "minutes": 6.516666666666667,
         "sealed": true,
         "stages": {
-          "link": "/v2/users/571a71deff70d871cf660559/activities/walk__2016-05-05T004854/stages"
+          "link": "/v2/users/54f5b15ca450ed4727efbd0b/activities/walk__2016-05-05T004841/stages"
         },
         "start_time": {
-          "iso": "2016-05-05T00:48:54Z",
+          "iso": "2016-05-05T00:48:41Z",
           "time_zone": {
             "name": "America/New_York",
             "offset": -240
           },
-          "timestamp": 1462409334
+          "timestamp": 1462409321
         },
         "state": "complete",
-        "steps": 725.0,
+        "steps": 769.0,
         "type": "walk",
         "version": 1
       }
